@@ -1,0 +1,19 @@
+		$(document).ready(function() {  
+		var stickyNavTop = $('#mod_quiz_navblock').offset().top;  
+		  
+		var stickyNav = function(){  
+		var scrollTop = $(window).scrollTop();  
+			   
+		if (scrollTop > stickyNavTop) {   
+			$('#mod_quiz_navblock').addClass('sticky');  
+		} else {  
+			$('#mod_quiz_navblock').removeClass('sticky');   
+		}  
+		};  
+		  
+		stickyNav();  
+		  
+		$(window).scroll(function() {  
+			stickyNav();  
+		});  
+		});
