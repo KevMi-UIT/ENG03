@@ -4,8 +4,6 @@
 
 ## LISTENING
 
-<center>
-
 |         **PART**          | **SUBJECT**        | **TEST**                                       |                                                                                                                                                           **WEBSITE**                                                                                                                                                           |                                                                                                                                                             **AUDIO**                                                                                                                                                             |
 | :-----------------------: | :----------------- | :--------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 3 _(Short Conversations)_ | Detail Questions   | Commuting                                      |                                                                       [![Commuting - htm](https://img.shields.io/badge/COMMUTING-9bf6ff?style=for-the-badge)](Listening/PART%203%20-%20Short%20Conversations/Detail%20Questions/Commuting/Commuting.htm)                                                                        |                                                                       [![Commuting - Audio](https://img.shields.io/badge/COMMUTING-9bf6ff?style=for-the-badge)](Listening/PART%203%20-%20Short%20Conversations/Detail%20Questions/Commuting/Commuting.mp3)                                                                        |
@@ -26,11 +24,7 @@
 |     4 _(Short Talks)_     |                    | Test 7_Airport and train stations announcement | [![Test 7_Airport and train stations announcement - htm](https://img.shields.io/badge/Test_7_Airport_and_train_stations_announcement-a0c4ff?style=for-the-badge)](Listening/PART%204%20-%20Short%20Talks/Test%207_Airport%20and%20train%20stations%20announcement/Test%207_Airport%20and%20train%20stations%20announcement.htm) | [![Test 7_Airport and train stations announcement - Audio](https://img.shields.io/badge/Test_7_Airport_and_train_stations_announcement-a0c4ff?style=for-the-badge)](Listening/PART%204%20-%20Short%20Talks/Test%207_Airport%20and%20train%20stations%20announcement/Test%207_Airport%20and%20train%20stations%20announcement.mp3) |
 |     4 _(Short Talks)_     |                    | Test 8_Instructions, Lectures and Speeches     |           [![Test 8_Instructions, Lectures and Speeches - htm](https://img.shields.io/badge/Test_8_Instructions,_Lectures_and_Speeches-caffbf?style=for-the-badge)](Listening/PART%204%20-%20Short%20Talks/Test%208_Instructions,%20Lectures%20and%20Speeches/Test%208_Instructions,%20Lectures%20and%20Speeches.htm)           |           [![Test 8_Instructions, Lectures and Speeches - Audio](https://img.shields.io/badge/Test_8_Instructions,_Lectures_and_Speeches-caffbf?style=for-the-badge)](Listening/PART%204%20-%20Short%20Talks/Test%208_Instructions,%20Lectures%20and%20Speeches/Test%208_Instructions,%20Lectures%20and%20Speeches.mp3)           |
 
-</center>
-
 ## READING
-
-<center>
 
 | **PART** | **TEST**                             |                                                                                                      **WEBSITE**                                                                                                       |
 | :------: | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -39,5 +33,3 @@
 |   III    | Memorandum, Message and Announcement | [![III. Memorandum, Message and Announcement - htm](https://img.shields.io/badge/III._Memorandum,_Message_and_Announcement-ffadad?style=for-the-badge)](Reading/III.%20Memorandum,%20Message%20and%20Announcement.htm) |
 |    IV    | Fax & Email                          |                                         [![IV. Fax & Email - htm](https://img.shields.io/badge/IV._Fax_&_Email-caffbf?style=for-the-badge)](Reading/IV.%20Fax%20&%20Email.htm)                                         |
 |    V     | Advertisement                        |                                         [![V. Advertisement - htm](https://img.shields.io/badge/V._Advertisement-ffd6a5?style=for-the-badge)](Reading/V.%20Advertisement.htm)                                          |
-
-</center>
