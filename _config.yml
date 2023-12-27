@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+    - jekyll-remote-theme
+title: UIT - ENG03.0121
+description: Thái Bình - Nguyên Cảnh - Minh Hào - Minh Hiển
+show_downloads: false
