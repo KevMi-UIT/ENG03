@@ -1,6 +1,14 @@
-# UIT - ENG03.O121
+# UIT - ENG03.O121 - 2023
 
 <!-- Color: ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff -->
+
+## NOTES
+
+Sử dụng kín kín thôi nha 🥴. Đừng làm liên luỵ đến tôi và những cá nhân _(đồng cheat)_ khác.
+
+Ấn vào [website](https://kevinnitrog.github.io/UIT-ENG03/) thì mới chuyển tiếp đến website preview đáp án nha.
+
+Có một số test không có audio lưu lại tại mấy khứa làm chung nó không thèm lưu hộ tôi. Bạn có thể contribute vào đây nha. Xin cảm ơn :v.
 
 ## LISTENING
 
