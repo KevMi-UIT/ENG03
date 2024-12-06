@@ -4,9 +4,7 @@
 
 ## NOTES
 
-Sử dụng kín kín thôi nha 🥴. Đừng làm liên luỵ đến tôi và những cá nhân _(đồng cheat)_ khác.
-
-Ấn vào [website](https://kevinnitrog.github.io/UIT-ENG03/) thì mới chuyển tiếp đến website preview đáp án nha.
+Ấn vào [website](https://kevmi-uit.github.io/ENG03/) thì mới chuyển tiếp đến website preview đáp án nha.
 
 Có một số test không có audio lưu lại tại mấy khứa làm chung nó không thèm lưu hộ tôi. Bạn có thể contribute vào đây nha. Xin cảm ơn :v.
 
